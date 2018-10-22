@@ -1,8 +1,9 @@
 ## PHI Challenge
 
-Code for PHI Challenge
+This repository includes SOM-Diffgram code for the PEER Hub ImageNet Challenge.
 
-Introduction to PHI Challenge (https://apps.peer.berkeley.edu/phichallenge/)
+# Introduction to PHI Challenge
+https://apps.peer.berkeley.edu/phichallenge/
 
 There have been several recent image-based recognition competitions (such as the PASCAL VOC, ImageNet, and COCO challenges) based on natural objects and scenes. It is time to hold competitions in other areas to develop interdisciplinary interactions with computer vision and machine & deep learning technologies.
 

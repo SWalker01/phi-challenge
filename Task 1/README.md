@@ -1,5 +1,2 @@
 ## PHI Challenge
-
-###Task 1
-
-Scene level classification
+Task 1 - Scene level classification
